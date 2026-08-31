@@ -1,0 +1,200 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <style>
+    body {
+        background-color: lightblue;
+        font-family: Arial;
+        text-align: center;
+    }
+
+    h1 {
+        color: darkblue;
+    }
+
+    h2 {
+        color: darkred;
+    }
+
+    table {
+        margin: auto;
+        background-color: white;
+    }
+
+    td {
+        padding: 8px;
+    }
+
+    tr:first-child {
+        background-color: orange;
+    }
+</style>
+
+        <title>The Box Office Hall Of Fame</title>
+    </head>
+    <body>
+    <h1>The Box Office Hall Of Fame</h1>
+    <h2>25 highest grossing movies of all time</h2>
+        
+        <table border="1">
+        <tr>
+            <td>Rank</td>
+            <td>Title</td>
+            <td>Year</td>
+            <td>WorldWide Gross</td>
+        </tr>
+        <tr>
+            <td>01</td>
+            <td>Avatar</td>
+            <td>2009</td>
+            <td>$2.9M</td>
+        </tr>
+        <tr>
+            <td>02</td>
+            <td>Avenger: Endgame</td>
+            <td>2019</td>
+            <td>$2.79M</td>
+        </tr>
+        <tr>
+            <td>03</td>
+            <td>Avatar: The way of water</td>
+            <td>2022</td>
+            <td>$2.3M</td>
+        </tr>
+        <tr>
+            <td>04</td>
+            <td>Titanic</td>
+            <td>1997</td>
+            <td>$2.26M</td>
+        </tr>
+        <tr>
+            <td>05</td>
+            <td>Ne Zha 2</td>
+            <td>2025</td>
+            <td>$2.2M</td>
+        </tr>
+        <tr>
+            <td>06</td>
+            <td>Star Wars: The Force Awakens</td>
+            <td>2015</td>
+            <td>$2.06M</td>
+        </tr>
+        <tr>
+            <td>07</td>
+            <td>Avenger: Infinity War</td>
+            <td>2018</td>
+            <td>$2.04M</td>
+        </tr>
+        <tr>
+            <td>08</td>
+            <td>Spiderman: No Way Home</td>
+            <td>2021</td>
+            <td>$1.92M</td>
+        </tr>
+        <tr>
+            <td>09</td>
+            <td>Inside Out 2</td>
+            <td>2024</td>
+            <td>$1.69M</td>
+        </tr>
+        <tr>
+            <td>10</td>
+            <td>Jurassic World</td>
+            <td>2015</td>
+            <td>$1.67M</td>
+        </tr>
+        <tr>
+            <td>11</td>
+            <td>The Lion King</td>
+            <td>2019</td>
+            <td>$1.66M</td>
+        </tr>
+        <tr>
+            <td>12</td>
+            <td>The Avengers</td>
+            <td>2012</td>
+            <td>$1.51M</td>
+        </tr>
+        <tr>
+            <td>13</td>
+            <td>Fast and The Furious 7</td>
+            <td>2015</td>
+            <td>$1.51M</td>
+        </tr>
+        <tr>
+            <td>14</td>
+            <td>Top Gun: Maverick</td>
+            <td>2022</td>
+            <td>$1.49M</td>
+        </tr>
+        <tr>
+            <td>15</td>
+            <td>Frozen 2</td>
+            <td>2019</td>
+            <td>$1.45M</td>
+        </tr>
+        <tr>
+            <td>16</td>
+            <td>Barbie</td>
+            <td>2023</td>
+            <td>$1.44M</td>
+        </tr>
+        <tr>
+            <td>17</td>
+            <td>Avengers: Age of Ultron</td>
+            <td>2015</td>
+            <td>$1.40M</td>
+        </tr>
+        <tr>
+            <td>18</td>
+            <td>The Super Mario Bros Movie</td>
+            <td>2023</td>
+            <td>$1.36M</td>
+        </tr>
+        <tr>
+            <td>19</td>
+            <td>Black Panther</td>
+            <td>2018</td>
+            <td>$1.34M</td>
+        </tr>
+        <tr>
+            <td>20</td>
+            <td>Harry Potter and The Deathly Hallows</td>
+            <td>2011</td>
+            <td>$1.34M</td>
+        </tr>
+        <tr>
+            <td>21</td>
+            <td>Deadpool and Wolverine</td>
+            <td>2024</td>
+            <td>$1.33M</td>
+        </tr>
+        <tr>
+            <td>22</td>
+            <td>Star War: The Last Jedi</td>
+            <td>2017</td>
+            <td>$1.33M</td>
+        </tr>
+        <tr>
+            <td>23</td>
+            <td>Jurassic World: Fallen Kingdom</td>
+            <td>2018</td>
+            <td>$1.31M</td>
+        </tr>
+        <tr>
+            <td>24</td>
+            <td>Frozen</td>
+            <td>2013</td>
+            <td>$1.28M</td>
+        </tr>
+        <tr>
+            <td>25</td>
+            <td>Beauty and The Beast</td>
+            <td>2017</td>
+            <td>$1.26M</td>
+        </tr>
+    </table>
+       
+    
+    </body>
+</html>
